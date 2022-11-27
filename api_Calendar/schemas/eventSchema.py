@@ -1,5 +1,5 @@
 from marshmallow import Schema, fields, post_load
-from api_Calendar.models.event import Event
+from api_Calendar.models.events import Event
 
 class EventSchema(Schema):
    title= fields.String(allow_none=False)

@@ -10,7 +10,9 @@ from flask_restful import Api
 
 from api_Calendar.constants import PROJECT_ROOT, API_CALENDAR_DATABASE
 from api_Calendar.database import db 
-from api_Calendar.resources.eventResources import EventResource, EVENTS_ENDPOINT
+from api_Calendar.resources.eventResources import EventResource, EVENTS_ENDPOINT 
+from flask_cors import CORS
+
 
 def create_app(db_location):
     logging.basicConfig(
@@ -21,6 +23,8 @@ def create_app(db_location):
     )
 
     app = Flask(__name__)
+    cors = CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
+
     app.config["SQLALCHEMY_DATABASE_URI"] = db_location
     db.init_app(app)
 

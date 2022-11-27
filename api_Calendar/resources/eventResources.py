@@ -4,8 +4,9 @@ from flask_restful import Resource, abort
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm.exc import NoResultFound
 from api_Calendar.database import db
-from api_Calendar.models.event import Event
-from api_Calendar.schemas.EventSchema import EventSchema
+from api_Calendar.models.events import Event
+from api_Calendar.schemas.eventSchema import EventSchema
+
 
 EVENTS_ENDPOINT = "/api/events"
 logger = logging.getLogger(__name__)
@@ -47,7 +48,10 @@ class EventResource (Resource) :
     def post(self):
        
         event = EventSchema().load(request.get_json())
-
+        if (event.title == "" or event.description == ""  or event.start_date == "" or event.end_date == "" or 
+            event.title == None or event.description == None  or event.start_date == None or event.end_date == None):
+            return abort(400, message="fill all fields")
+        
         try:
             db.session.add(event)
             db.session.commit()
@@ -58,7 +62,41 @@ class EventResource (Resource) :
 
             abort(500, message="Unexpected Error!")
         else:
-            return event.event_id, 201
+            return event.id, 201
+
+    def delete (self,id):
+        try:
+            event = Event.query.filter_by(id=id).first()
+            if not event:
+                raise NoResultFound()
+
+            db.session.delete(event)
+            db.session.commit()
+            logger.info("Events successfully deleted.")
+            return "", 204
+
+        except NoResultFound:
+            abort(404, message="event not found")    
+
+        
+    def put (self,id):
+        event = EventSchema().load(request.get_json())
+        try:
+            event_put = Event.query.filter_by(id=id).first()
+            if not event_put:
+                raise NoResultFound()
+
+            event_put.title = event.title
+            event_put.description = event.description
+            event_put.start_date = event.start_date
+            event_put.end_date = event.end_date
+            db.session.commit()
+            return EventSchema().dump(event_put), 201
+
+        except NoResultFound:
+            abort(404, message="event not found")
+
+
 
 
 

@@ -60,7 +60,7 @@ class EventResource (Resource) :
                 f"Integrity Error, this event is already in the database. Error: {e}"
             )
 
-            abort(500, message="Unexpected Error!")
+            abort(409, message="Unexpected Error!")
         else:
             return event.id, 201
 

@@ -8,7 +8,7 @@ sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 from flask import Flask
 from flask_restful import Api
 
-from api_Calendar.constants import PROJECT_ROOT, API_CALENDAR_DATABASE
+from api_Calendar.constants import PROJECT_ROOT, API_CALENDAR_DATABASE, FRONT_URL
 from api_Calendar.database import db 
 from api_Calendar.resources.eventResources import EventResource, EVENTS_ENDPOINT 
 from flask_cors import CORS
@@ -23,7 +23,7 @@ def create_app(db_location):
     )
 
     app = Flask(__name__)
-    cors = CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
+    cors = CORS(app, resources={r"/api/*": {"origins": FRONT_URL}})
 
     app.config["SQLALCHEMY_DATABASE_URI"] = db_location
     db.init_app(app)
@@ -34,7 +34,7 @@ def create_app(db_location):
 
 if __name__ == "__main__":
     app = create_app(f"sqlite:////{PROJECT_ROOT}/{API_CALENDAR_DATABASE}")
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
 
    
 

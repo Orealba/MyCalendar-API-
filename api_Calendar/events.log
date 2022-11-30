@@ -1071,3 +1071,578 @@
 11-29 17:08 api_Calendar.resources.eventResources INFO     Retrieving all events
 11-29 17:08 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
 11-29 17:08 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 17:08:16] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:46 werkzeug     INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11-29 19:46 werkzeug     INFO      * Restarting with stat
+11-29 19:46 werkzeug     WARNING   * Debugger is active!
+11-29 19:46 werkzeug     INFO      * Debugger PIN: 250-789-441
+11-29 19:53 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:53 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:53 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:53:26] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:53 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:53 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:53 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:53:45] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:53 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:53 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:53 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:53:52] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:53 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:53 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:53 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:53:58] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:04] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:11] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:17] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:32] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:36] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:42] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:54 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:54:47] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:55 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:55 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:55 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:55:36] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:55 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:55 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:55 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:55:41] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:55 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:55 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:55 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:55:45] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:55 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:55 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:55 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:55:51] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:56 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:56 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:56 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:56:28] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:56 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:56 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:56 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:56:32] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:56 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:56 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:56 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:56:44] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:56 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:56 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:56 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:56:48] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:56 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:56 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:56 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:56:56] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:57 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:57 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:57:03] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:57 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:57 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:57:07] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:57 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:57 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:57:13] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:57 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:57 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:57:19] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:57 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:57 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:57:28] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:58 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:58 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:58 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:58:16] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:58 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:58 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:58 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:58:18] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:58 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:58 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:58 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:58:33] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:06] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:10] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:15] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:26] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:36] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:39] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:41] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:47] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:50] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 19:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 19:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 19:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 19:59:54] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:00 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:00 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:00:31] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:00 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:00 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:00:38] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:00 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:00 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:00:43] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:01 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:01 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:01:54] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:02 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:02 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:02:33] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:04 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:04 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:04 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:04:05] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:06 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:06 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:06 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:06:30] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:06 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:06 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:06 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:06:43] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:07 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:07:10] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-29 20:07 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:07:10] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-29 20:07 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:07 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:07 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:07:10] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:19 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:19 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:19 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:19:31] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:19 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:19 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:19 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:19:31] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:20 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:20 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:20 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:20:06] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:20 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:20 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:20 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:20:17] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:20 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:20 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:20 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:20:24] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:20 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:20 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:20 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:20:34] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:20 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:20 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:20 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:20:39] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:20 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:20 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:20 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:20:59] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:21 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:21 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:21 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:21:25] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:21 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:21 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:21 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:21:55] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:22 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:22 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:22 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:22:09] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:22 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:22 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:22 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:22:24] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:35 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:35 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:35 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:35:49] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:36 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:36 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:36 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:36:34] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:36 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:36 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:36 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:36:55] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:37 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:37 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:37 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:37:01] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:39 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:39 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:39 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:39:02] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:39 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:39 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:39 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:39:34] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:40 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:40 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:40 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:40:08] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:40 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:40 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:40 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:40:52] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:43 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:43 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:43 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:43:13] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:43 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:43 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:43 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:43:42] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:44 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:44 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:44 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:44:00] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:44 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:44 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:44 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:44:28] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:45 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:45 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:45 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:45:20] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:45 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:45 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:45 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:45:36] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:46 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:46 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:46 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:46:33] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:46 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:46 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:46 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:46:55] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:48 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:48 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:48 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:48:37] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:48 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:48 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:48 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:48:53] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:49 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:49 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:49 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:49:41] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:50 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:50 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:50 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:50:05] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:50 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:50 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:50 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:50:14] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:50 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:50 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:50 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:50:17] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:50 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:50 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:50 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:50:26] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:50 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:50 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:50 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:50:38] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:50 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:50 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:50 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:50:57] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:51 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:51 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:51 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:51:16] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:52 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:52 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:52 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:52:30] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:56 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:56 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:56 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:56:36] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:57 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:57 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:57:11] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:57 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:57 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:57:11] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:57 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:57 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:57:39] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:57 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:57 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:57:45] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:57 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:57 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:57 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:57:57] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:59:41] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:59 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 20:59 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 20:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:59:41] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 20:59 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:59 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:59:50] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 20:59 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 20:59 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 20:59 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 20:59:50] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 21:00 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 21:00 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 21:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:00:17] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 21:00 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-29 21:00 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-29 21:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:00:28] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-29 21:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:00:43] "[37mOPTIONS /api/events/3 HTTP/1.1[0m" 200 -
+11-29 21:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:00:43] "[37mPUT /api/events/3 HTTP/1.1[0m" 201 -
+11-29 21:00 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:00 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:00:43] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:00 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:00 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:00 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:00:43] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:01 api_Calendar.resources.eventResources INFO     Retrieving event by id 2
+11-29 21:01 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 2, 'description': 'holidays', 'start_date': '2022-11-29T00:00:00', 'title': 'travel to Coruña', 'end_date': '2022-12-02T00:02:00'}
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:30] "[37mGET /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:01 api_Calendar.resources.eventResources INFO     Retrieving event by id 2
+11-29 21:01 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 2, 'description': 'holidays', 'start_date': '2022-11-29T00:00:00', 'title': 'travel to Coruña', 'end_date': '2022-12-02T00:02:00'}
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:30] "[37mGET /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:53] "[37mOPTIONS /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:53] "[37mPUT /api/events/2 HTTP/1.1[0m" 201 -
+11-29 21:01 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:01 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:53] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:01 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:01 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:53] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:01 api_Calendar.resources.eventResources INFO     Retrieving event by id 2
+11-29 21:01 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 2, 'description': 'holidays', 'start_date': '2022-11-01T00:00:00', 'title': 'travel to Coruña', 'end_date': '2022-12-03T00:03:00'}
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:57] "[37mGET /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:01 api_Calendar.resources.eventResources INFO     Retrieving event by id 2
+11-29 21:01 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 2, 'description': 'holidays', 'start_date': '2022-11-01T00:00:00', 'title': 'travel to Coruña', 'end_date': '2022-12-03T00:03:00'}
+11-29 21:01 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:01:57] "[37mGET /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:08] "[37mOPTIONS /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:08] "[37mPUT /api/events/2 HTTP/1.1[0m" 201 -
+11-29 21:02 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:02 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:08] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:02 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:02 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:08] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:13] "[37mOPTIONS /api/events/2 HTTP/1.1[0m" 200 -
+11-29 21:02 api_Calendar.resources.eventResources INFO     Events successfully deleted.
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:13] "[37mDELETE /api/events/2 HTTP/1.1[0m" 204 -
+11-29 21:02 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:02 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:02 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:02:13] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:05 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:05 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:05 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:05:00] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:05 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:05 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:05 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:05:00] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:07 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:07 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:07 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:07:30] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-29 21:07 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-29 21:07 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-29 21:07 werkzeug     INFO     127.0.0.1 - - [29/Nov/2022 21:07:30] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:11 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:11 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:11 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:11:47] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:11 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:11 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:11 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:11:47] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:23 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:23 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-30 10:23 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:23:39] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:23 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:23 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-03T00:00:00', 'title': 'doctor', 'end_date': '2022-11-03T00:01:00'}
+11-30 10:23 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:23:39] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:23 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:23:49] "[37mOPTIONS /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:23 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:23:49] "[37mPUT /api/events/3 HTTP/1.1[0m" 201 -
+11-30 10:23 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:23 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:23 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:23:49] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:23 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:23 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:23 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:23:49] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:24 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:24 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:24 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:24:32] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:24 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:24 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:24 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:24:32] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:24 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:24 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:24 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:24:59] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:24 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:24 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:24 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:24:59] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:26 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:26 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:26 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:26:05] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:26 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:26 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:26 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:26:05] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:26 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:26:08] "[37mOPTIONS /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:26 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:26:08] "[37mPUT /api/events/3 HTTP/1.1[0m" 201 -
+11-30 10:26 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:26 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:26 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:26:08] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:26 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:26 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:26 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:26:08] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:41 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:41 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:41 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:41:50] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:41 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:41 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:41 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:41:50] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:42 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:42 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:42 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:42:22] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:42 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:42 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:42 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:42:22] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:43 api_Calendar.resources.eventResources INFO     Retrieving event by id 3
+11-30 10:43 api_Calendar.resources.eventResources INFO     Event retrieved from database {'id': 3, 'description': 'results', 'start_date': '2022-11-06T00:00:00', 'title': 'doctor', 'end_date': '2022-11-07T00:02:00'}
+11-30 10:43 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:43:21] "[37mGET /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:43 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:43 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:43 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:43:58] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:43 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:43 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:43 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:43:58] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:03] "[37mOPTIONS /api/events/3 HTTP/1.1[0m" 200 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully deleted.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:03] "[37mDELETE /api/events/3 HTTP/1.1[0m" 204 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:03] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:27] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:27] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:27] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:43] "[37mOPTIONS /api/events/2 HTTP/1.1[0m" 200 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully deleted.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:43] "[37mDELETE /api/events/2 HTTP/1.1[0m" 204 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:43] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:46] "[37mOPTIONS /api/events/1 HTTP/1.1[0m" 200 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully deleted.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:46] "[37mDELETE /api/events/1 HTTP/1.1[0m" 204 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:46] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:57] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:57] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:44 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:44 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:44 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:44:57] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:45 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:45 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:45 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:45:07] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:45 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:45 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:45 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:45:07] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:45 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:45:18] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:45 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:45:18] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:45 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:45 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:45 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:45:18] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:46 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:46 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:46 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:46:47] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:46 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:46 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:46 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:46:47] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:46 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:46:59] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:46 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:46:59] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:46 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:46 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:46 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:46:59] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:47 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:47 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:47 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:47:03] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:47 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:47 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:47 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:47:03] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:47 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:47 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:47 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:47 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:47:53] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:47 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:47 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:47:53] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:49 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:49:20] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:49 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:49:20] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:49 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:49 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:49 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:49:20] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:49 werkzeug     INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11-30 10:49 werkzeug     INFO      * Restarting with stat
+11-30 10:49 werkzeug     WARNING   * Debugger is active!
+11-30 10:49 werkzeug     INFO      * Debugger PIN: 250-789-441
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:02] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:02] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:51 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:51 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:02] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:51 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:51 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-11-30T00:00:00', 'description': 'results', 'end_date': '2022-11-30T00:01:00', 'title': 'doctor', 'id': 5}
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:06] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:51 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:51 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-11-30T00:00:00', 'description': 'results', 'end_date': '2022-11-30T00:01:00', 'title': 'doctor', 'id': 5}
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:06] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:17] "[37mOPTIONS /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:17] "[37mPUT /api/events/5 HTTP/1.1[0m" 201 -
+11-30 10:51 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:51 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:17] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:51 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:51 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:51 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:51:17] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:52 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-12-01T00:00:00', 'description': 'results', 'end_date': '2022-12-05T00:02:00', 'title': 'doctor', 'id': 5}
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:06] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:52 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-12-01T00:00:00', 'description': 'results', 'end_date': '2022-12-05T00:02:00', 'title': 'doctor', 'id': 5}
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:07] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:09] "[37mOPTIONS /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:09] "[37mPUT /api/events/5 HTTP/1.1[0m" 201 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:52 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:09] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:52 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:09] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:52 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-12-01T00:00:00', 'description': 'results', 'end_date': '2022-12-05T00:02:00', 'title': 'doctor', 'id': 5}
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:19] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:52 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-12-01T00:00:00', 'description': 'results', 'end_date': '2022-12-05T00:02:00', 'title': 'doctor', 'id': 5}
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:19] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:20] "[37mOPTIONS /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:20] "[37mPUT /api/events/5 HTTP/1.1[0m" 201 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:52 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:20] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:52 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:20] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:52 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:30] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:52 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:52 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:52 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:52:30] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:54 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-12-01T00:00:00', 'description': 'results', 'end_date': '2022-12-05T00:02:00', 'title': 'doctor', 'id': 5}
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:10] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving event by id 5
+11-30 10:54 api_Calendar.resources.eventResources INFO     Event retrieved from database {'start_date': '2022-12-01T00:00:00', 'description': 'results', 'end_date': '2022-12-05T00:02:00', 'title': 'doctor', 'id': 5}
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:10] "[37mGET /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:12] "[37mOPTIONS /api/events/5 HTTP/1.1[0m" 200 -
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:12] "[37mPUT /api/events/5 HTTP/1.1[0m" 201 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:12] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:12] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully deleted.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:16] "[37mDELETE /api/events/5 HTTP/1.1[0m" 204 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:16] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:54] "[37mOPTIONS /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:54] "[37mPOST /api/events HTTP/1.1[0m" 201 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:54] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:58] "[37mGET /api/events HTTP/1.1[0m" 200 -
+11-30 10:54 api_Calendar.resources.eventResources INFO     Retrieving all events
+11-30 10:54 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
+11-30 10:54 werkzeug     INFO     127.0.0.1 - - [30/Nov/2022 10:54:58] "[37mGET /api/events HTTP/1.1[0m" 200 -

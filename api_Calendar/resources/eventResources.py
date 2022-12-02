@@ -46,12 +46,13 @@ class EventResource (Resource) :
         return events_json
 
     def post(self):
-       
-        event = EventSchema().load(request.get_json())
-        if (event.title == "" or event.description == ""  or event.start_date == "" or event.end_date == "" or 
-            event.title == None or event.description == None  or event.start_date == None or event.end_date == None):
+        req = request.get_json()
+
+        if (req["title"] == "" or req["description"] == ""  or req["start_date"] == "" or req["end_date"] == "" or 
+            req["title"] == None or req["description"] == None  or req["start_date"] == None or req["end_date"] == None):
+            
             return abort(400, message="fill all fields")
-        
+        event = EventSchema().load(request.get_json())
         try:
             db.session.add(event)
             db.session.commit()
@@ -80,6 +81,12 @@ class EventResource (Resource) :
 
         
     def put (self,id):
+        reqput = request.get_json()
+
+        if (reqput["title"] == "" or reqput["description"] == ""  or reqput["start_date"] == "" or reqput["end_date"] == "" or 
+            reqput["title"] == None or reqput["description"] == None  or reqput["start_date"] == None or reqput["end_date"] == None):
+            
+            return abort(400, message="fill all fields")
         event = EventSchema().load(request.get_json())
         try:
             event_put = Event.query.filter_by(id=id).first()

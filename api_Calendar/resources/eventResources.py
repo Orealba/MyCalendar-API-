@@ -15,15 +15,15 @@ class EventResource (Resource) :
     def get (self, id=None):
         if not id:
             logger.info(
-                f"Retrieving all events"
+                f"All events were successfully retrieved"
             )
             return self._get_all_events(), 200
 
-        logger.info(f"Retrieving event by id {id}")
+        logger.info(f"The event was successfully retrieved by id {id}")
         try:
             return self._get_event_by_id(id), 200
         except NoResultFound:
-            abort(404, message="event not found")
+            abort(404, message="event not found, try again")
 
     def _get_event_by_id(self, event_id):
         event = Event.query.filter_by(id=event_id).first()

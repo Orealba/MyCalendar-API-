@@ -3,11 +3,12 @@ import sys
 from os import path
 from flask import Flask
 from flask_restful import Api
+sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 from api_Calendar.constants import PROJECT_ROOT, API_CALENDAR_DATABASE, FRONT_URL
 from api_Calendar.database import db 
 from api_Calendar.resources.eventResources import EventResource, EVENTS_ENDPOINT 
 from flask_cors import CORS
-sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
+
 
 
 def create_app(db_location):

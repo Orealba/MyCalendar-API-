@@ -165,3 +165,7 @@
 12-05 10:11 api_Calendar.resources.eventResources INFO     All events were successfully retrieved
 12-05 10:11 api_Calendar.resources.eventResources INFO     Events successfully retrieved.
 12-05 10:11 werkzeug     INFO     127.0.0.1 - - [05/Dec/2022 10:11:58] "[37mGET /api/events HTTP/1.1[0m" 200 -
+12-06 19:36 werkzeug     INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12-06 19:36 werkzeug     INFO      * Restarting with stat
+12-06 19:36 werkzeug     WARNING   * Debugger is active!
+12-06 19:36 werkzeug     INFO      * Debugger PIN: 250-789-441

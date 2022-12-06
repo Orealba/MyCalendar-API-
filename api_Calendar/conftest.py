@@ -1,11 +1,9 @@
 from shutil import copy
-
-
 import pytest
 from api_Calendar.api import create_app
 from api_Calendar.constants import API_CALENDAR_DATABASE, PROJECT_ROOT
 
-
+#initialize the test
 @pytest.fixture
 def client(tmpdir):
     copy(f"{PROJECT_ROOT}/{API_CALENDAR_DATABASE}", tmpdir.dirpath())

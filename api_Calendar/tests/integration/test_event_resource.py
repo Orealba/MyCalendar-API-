@@ -15,11 +15,10 @@ def test_events_post_error(client):
 def test_get_all_events(client):
     response = client.get(f"{EVENTS_ENDPOINT}")
     assert response.status_code == 200
-    assert len(response.json) == 1
+    
 
 def test_get_single_events(client):
     response = client.get(f"{EVENTS_ENDPOINT}/1")
-
     assert response.status_code == 200
 
 

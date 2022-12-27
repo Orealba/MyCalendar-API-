@@ -8,6 +8,8 @@ Application to create and edit events in a calendar.
 
 ### Launch
 
-- pipenv intall
+-pip install -U flask-cors
+
+- pipenv install
 - pipenv shell
 - python3 api.py
